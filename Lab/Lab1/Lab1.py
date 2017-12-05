@@ -1,5 +1,5 @@
 import tensorflow as tf
-from tensorflow.contrib.labeled_tensor import placeholder
+# from tensorflow.contrib.labeled_tensor import placeholder
 
 hello = tf.constant("Hello, Tensorflow!")
 sess = tf.Session()
